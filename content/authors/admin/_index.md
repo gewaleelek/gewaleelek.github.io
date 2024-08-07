@@ -1,51 +1,48 @@
 ---
 # Display name
-title: 吳健雄
+title: D
 
 # Name pronunciation (optional)
-name_pronunciation: Chien Shiung Wu
+name_pronunciation: ''
 
 # Full name (for SEO)
-first_name: Shiung Wu
-last_name: Chien
+first_name: Gewalee
+last_name: Lekcharuthas
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 😈
 
 # Is this the primary user of the site?
 superuser: true
 
 # Role/position/tagline
-role: Professor of Artificial Intelligence
+role: Cybersecurity student
 
 # Organizations/Affiliations to show in About widget
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: Mahidol University
+    url: https://www.mahidol.ac.th/
 
 # Social Networking
 # Need to use another icon? Simply download the SVG icon to your `assets/media/icons/` folder.
 profiles:
-  - icon: at-symbol
-    url: 'mailto:your-email@example.com'
-    label: E-mail Me
-  - icon: brands/x
-    url: https://twitter.com/GetResearchDev
-  - icon: brands/instagram
-    url: https://www.instagram.com/
   - icon: brands/linkedin
-    url: https://www.linkedin.com/
-  - icon: brands/google-scholar
-    url: https://scholar.google.com/citations?user=mG4imMEAAAAJ
-  - icon: brands/orcid
-    url: https://www.orcid.com/
+    url: https://www.linkedin.com/in/gewaleelek/
+  - icon: brands/facebook
+    url: https://www.facebook.com/gewaleelek
+  - icon: brands/github
+    url: https://github.com/gewaleelek
+  - icon: custom/stackoverflow
+    url: https://stackoverflow.com/users/20998928/glek
   # Link to a PDF of your resume/CV - upload it to `static/uploads/resume.pdf`
-  - icon: academicons/cv
-    url: uploads/resume.pdf
-    label: Download my resume
+#  - icon: academicons/cv
+#    url: uploads/resume.pdf
+#    label: Download my resume
 ---
 
-Chien Shiung Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include
-distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops
-self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+I am Gewalee Lekcharuthas, a graduate student specializing in cybersecurity. My journey into the world of tech began over five years ago, where I honed my skills as a hybrid L3 technical support and software developer in a mainframe environment within the financial industry. This experience equipped me with a robust foundation in technical problem-solving and software development.
+
+I have a strong passion for open-source technologies and Linux, constantly exploring new tools and techniques to enhance security and system performance. Cybersecurity fascinates me, and I'm dedicated to understanding and mitigating the complexities of today's digital threats.
+
+When I'm not immersed in code or cybersecurity challenges, you'll find me enjoying the company of my cats, who never fail to bring a touch of joy and curiosity to my life.
