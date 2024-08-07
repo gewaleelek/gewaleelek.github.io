@@ -1,6 +1,6 @@
 ---
 # Display name
-title: D
+title: Gewalee Lekcharuthas (D)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -41,7 +41,7 @@ profiles:
 #    label: Download my resume
 ---
 
-I am Gewalee Lekcharuthas, a graduate student specializing in cybersecurity. My journey into the world of tech began over five years ago, where I honed my skills as a hybrid L3 technical support and software developer in a mainframe environment within the financial industry. This experience equipped me with a robust foundation in technical problem-solving and software development.
+Hello! My name is Gewalee Lekcharuthas; some people call me by my nickname "D". I am a graduate student specializing in cybersecurity. My journey into the world of tech began over five years ago, where I honed my skills as a hybrid L3 technical support and software developer in a mainframe environment within the financial industry. This experience equipped me with a robust foundation in technical problem-solving and software development.
 
 I have a strong passion for open-source technologies and Linux, constantly exploring new tools and techniques to enhance security and system performance. Cybersecurity fascinates me, and I'm dedicated to understanding and mitigating the complexities of today's digital threats.
 
