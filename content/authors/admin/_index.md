@@ -74,7 +74,7 @@ work:
   - position: Software Engineer
     company_name: SS&C Technologies
     company_url: 'https://www.ssctech.com/'
-    company_logo: custom/ssc
+    company_logo: 'https://gewaleelek.github.io/uploads/ssc.svg'
     date_start: 2017-06-01
     date_end: 2022-09-01
     summary: |2-
@@ -95,7 +95,7 @@ skills:
       - name: VBA
         description: 'Self-taught at work to solve specific issues.'
         percent: 100
-        icon: custom/visualbasic
+        icon: devicon/visualbasic
       - name: Python
         description: 'Used in small, useful scripts on the personal Linux setup.'
         percent: 70
@@ -138,14 +138,14 @@ awards:
     url: https://www.mahidol.ac.th
     date: '2017-01-01'
     awarder: Mahidol University
-    icon: custom/mahidol
+    icon: 'https://gewaleelek.github.io/uploads/mahidol.svg'
     summary: |
       Awarded for cumulative GPA of 3.91 throughout the study.
   - title: Winner Award for IoT project "LightItUp"
     url: https://www.facebook.com/media/set/?set=oa.633911943445286&type=3
     date: '2016-08-21'
     awarder: NECTEC IoT Camp 2016 (Central Region)
-    icon: custom/nectec
+    icon: 'https://gewaleelek.github.io/uploads/nectec.svg'
     summary: |
       Awarded for the IoT project "LightItUp" using IoT Technology with ESP8266 and Espresso Lite V.2 boards.
   - title: 'Gold Award for Flash CS4 Animation'
