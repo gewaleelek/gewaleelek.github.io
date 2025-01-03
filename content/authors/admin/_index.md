@@ -35,7 +35,7 @@ profiles:
     url: https://www.linkedin.com/in/gewaleelek
   - icon: brands/mastodon
     url: https://mstdn.in.th/@gewaleelek
-  - icon: custom/stackoverflow
+  - icon: custom/devicon-stackoverflow
     url: https://stackoverflow.com/users/3585690/gewaleelek
 
 education:
@@ -46,9 +46,6 @@ education:
     summary: |
       Events and activities:
       - Working on my thesis about configuration security in open source web applications.
-    button:
-      text: ''
-      url: ''
   - area: Information and Communication Technology (Computer Network track)
     institution: Faculty of Information and Communication Technology, Mahidol University
     date_start: 2013-07-01
@@ -91,19 +88,23 @@ skills:
       - name: COBOL
         description: 'Properly trained; 5 years experience at work. JCL & Rexx also included.'
         percent: 100
-        icon: custom/cobol
+        icon: custom/fontawesome-server
       - name: VBA
         description: 'Self-taught at work to solve specific issues.'
         percent: 100
-        icon: devicon/visualbasic
+        icon: custom/devicon-visualbasic
       - name: Python
-        description: 'Used in small, useful scripts on the personal Linux setup.'
-        percent: 70
-        icon: devicon/python
+        description: 'Used in thesis and personal hobby projects.'
+        percent: 80
+        icon: custom/devicon-python
+      - name: JavaScript
+        description: 'Used in personal hobby projects.'
+        percent: 80
+        icon: custom/devicon-javascript
       - name: Bash
-        description: 'Used in small, useful scripts on the personal Linux setup.'
+        description: 'Used in personal hobby projects.'
         percent: 40
-        icon: devicon/bash
+        icon: custom/devicon-bash
   - name: Hobbies
     color: '#eeac02'
     color_border: '#f0bf23'
@@ -111,15 +112,15 @@ skills:
       - name: Cats
         description: 'Adopted by 7 cats!'
         percent: 100
-        icon: cat
+        icon: custom/fontawesome-cat
       - name: Icon design
         description: 'Contributes to open source icon pack projects'
         percent: 80
-        icon: hero/photo
+        icon: custom/fontawesome-paintbrush
       - name: Linux
-        description: 'Daily driving Debian since 2022!'
+        description: 'Daily driving Debian Linux since 2022!'
         percent: 80
-        icon: devicon/debian
+        icon: custom/devicon-linux
 
 languages:
   - name: Thai
