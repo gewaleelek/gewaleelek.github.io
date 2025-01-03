@@ -35,9 +35,9 @@ header:
 # Site footer
 footer:
   copyright:
-    notice: '© {year} Me. This work is licensed under {license}'
+    notice: '© {year} Me. The license of this work can be found in the <a href="https://github.com/gewaleelek/gewaleelek.github.io#licenses">source repository</a>.'
     license:
-      enable: true
+      enable: false
       allow_derivatives: false
       share_alike: true
       allow_commercial: false
