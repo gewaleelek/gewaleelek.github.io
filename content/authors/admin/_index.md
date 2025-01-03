@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Gewalee Lekcharuthas
+title: Gewalee Lekcharuthas (D)
 
 # Name pronunciation (optional)
 name_pronunciation: ''
@@ -11,7 +11,7 @@ last_name: Lekcharuthas
 
 # Status emoji
 status:
-  icon: ☕️
+  icon: 🐈‍⬛
 
 # Is this the primary user of the site?
 superuser: true
