@@ -73,8 +73,8 @@ work:
     company_url: 'https://ict.mahidol.ac.th'
     company_logo: ''
     date_start: 2024-09-01
-    date_end: 2024-11-31
-    summary: |
+    date_end: 2024-11-30
+    summary: |2-
       Class: Advanced Cybersecurity
 
       Responsibilities include:
