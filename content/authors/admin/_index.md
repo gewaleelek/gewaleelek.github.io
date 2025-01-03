@@ -68,6 +68,20 @@ education:
       - Participated in many computer-related competition including Creative Computer Game competition and Flash CS4 Animation competition
       - The go-to computer expert in a class full of aspired-to-be doctors
 work:
+  - position: Graduate Teaching Assistant
+    company_name: Mahidol University
+    company_url: 'https://ict.mahidol.ac.th'
+    company_logo: ''
+    date_start: 2024-09-01
+    date_end: 2024-11-31
+    summary: |
+      Class: Advanced Cybersecurity
+
+      Responsibilities include:
+      - Diagnose technical problems with student's lab computers in the class
+      - Answer students' questions about the material
+      - Review and score students' lab assignment answers
+      - Proctor quizzes and examination
   - position: Software Engineer
     company_name: SS&C Technologies
     company_url: 'https://www.ssctech.com/'
@@ -75,6 +89,8 @@ work:
     date_start: 2017-06-01
     date_end: 2022-09-01
     summary: |2-
+      Department: Asset Management Solutions
+
       Responsibilities include:
       - Resolve technocal software issues reported by business persons and customers
       - Develop and maintain batch programs and jobs in the mainframe system
@@ -154,8 +170,6 @@ awards:
       Won the Gold Honor from Flash CS4 Animation Programming Competition in Asean Academic Exhibition (academic year 2013) at Pongsawadi Technological College.
 ---
 
-I'm a graduate student who's passionate about open source and cybersecurity. After graduating from Mahidol University's a computer network-focused Bachelor's degree program in Information and Communication Technology with First Class Honors, I worked as a technical support/software developer hybrid role in a financial industry business. 
-
-While still being my only work experience, my 5 years there taught me how to develop reliable software that adjusts quickly to customer's feedback and remains easy to diagnose and maintain. I was also known for liking rare, challenging code-diving tickets rather than the more popular small, repetitive ones, and was often the go-to person for automation tasks in my team. 
+I'm a graduate student who's passionate about open source and cybersecurity. After graduating from Mahidol University's a computer network-focused Bachelor's degree program in Information and Communication Technology with First Class Honors, I worked as a technical support/software developer hybrid role in a financial industry business. My 5 years there taught me how to develop reliable software that adjusts quickly to customer's feedback and remains easy to diagnose and maintain. I was also known for liking rare, challenging code-diving tickets rather than the more popular small, repetitive ones, and was often the go-to person for automation tasks in my team. 
 
 Currently, I'm studying in a Master's degree program in Cybersecurity and Information Assurance at Mahidol University. My research involves applying what I've learned during earlier semester about information security standards to open source software projects. I'm looking forward to what I'll learn from this investigation!
